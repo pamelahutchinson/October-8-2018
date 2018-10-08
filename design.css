@@ -1,0 +1,77 @@
+
+.container{
+    display: flex;
+
+}
+.maincontainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+/* ------------------------------------------- */
+.divmenu{
+    /* display: flex; */
+    width: 100%;
+    height: 60px;
+    background-color: #74b9ff;
+    color: White;
+    align-items: baseline;
+
+}
+.high{
+    font-size:25px;
+    margin: 15px;
+}
+.homeCat{
+    font-size:20px;
+    margin: 20px;
+}
+/* --------------------------------------- */
+.cursemenu{
+    margin: 20px;
+    background-color:#dfe6e9;
+}
+.curse{
+    font-size: 22px;
+    color: #4b4b4b;
+    margin: 10px;
+
+}
+.curseparagraph{
+    color: black;
+    font-size: 13px;
+    margin:10px;
+    
+}
+/* ------------------------------------------------ */
+.helloWatchAndIntroMenu{
+    margin: 20px;
+    margin-top: 0px;
+}
+.helloWatchAndIntro{
+    color: #0984e3;
+    font-size: 20px;
+    margin-top: 0px;
+
+}
+.pHelloAndIntro{
+    color: black;
+    font-size:13px;
+    
+}
+/* --------------------------------------------------- */
+
+.orangeBar{
+    width: 100%;
+    height: 25px;
+    background-color: #f39c12;
+    color:white;
+    font-size: 13px;
+    font-weight: bold;
+    align-items:flex-start;
+
+}
+.orangeBar div {
+    margin: 5px;
+}
+
